@@ -1,0 +1,7 @@
+[package]
+name = "rustmain"
+version = "0.1.0"
+edition = "2024"
+authors = [" Name:Sabbir Hossain akanda Email:sabbir.hossain@sa.stud.vu.lt"]
+
+[dependencies]
